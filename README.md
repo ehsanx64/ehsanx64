@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning the Go programming language and refreshing my knowledge/skills on front-end development using JavaScript.
+
 <!--
 **ehsanx64/ehsanx64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
